@@ -10,3 +10,11 @@ As it can be seen in this case the probaility of chossing channel 1 decreases fo
 If we give higher value to channel 1, we see that it takes more time for convergence:
 ![figure_1](https://cloud.githubusercontent.com/assets/5707322/24586943/3fc2a380-177a-11e7-98d6-29e50520af6e.png)
 This time the value of channel 1 is 20 times the value of channel 2.
+
+This two graphs shows the eqiublirum graphs:
+As it was mentioned the region 1 and 3 are nash equiblirium, and as it can be seen the trajectories finally converge to one of these region which advocate the result that we will converge
+
+
+![figure_3](https://cloud.githubusercontent.com/assets/5707322/24586982/18a6c3c0-177b-11e7-8d1a-45a5b1c30924.png)
+
+![figure_4](https://cloud.githubusercontent.com/assets/5707322/24586985/21510396-177b-11e7-8695-7924f6e5fe42.png)
