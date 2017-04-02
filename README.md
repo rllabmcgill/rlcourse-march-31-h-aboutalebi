@@ -18,3 +18,4 @@ As it was mentioned the region 1 and 3 are nash equiblirium, and as it can be se
 ![figure_3](https://cloud.githubusercontent.com/assets/5707322/24586982/18a6c3c0-177b-11e7-8d1a-45a5b1c30924.png)
 
 ![figure_4](https://cloud.githubusercontent.com/assets/5707322/24586985/21510396-177b-11e7-8695-7924f6e5fe42.png)
+The arrows shows the path of trajectory
